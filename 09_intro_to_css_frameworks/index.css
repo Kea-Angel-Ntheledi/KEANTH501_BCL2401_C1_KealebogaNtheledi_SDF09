@@ -1,0 +1,13 @@
+/*:root {
+    font-size: 12px;
+}
+/*applies box-sizing to all elements*/
+/**,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    
+} 
